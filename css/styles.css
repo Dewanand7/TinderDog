@@ -37,7 +37,7 @@ p {
 /* Sections */
 
 .colored-section {
-    background-color: #ff4c68;
+    background-color: #FF6BBA;
     color: #fff;
 }
 
@@ -111,7 +111,7 @@ p {
 }
 
 .icons-features {
-    color: #ef8172;
+    color: #80EB5E;
     margin-bottom: 1rem;
 }
 
@@ -122,7 +122,7 @@ p {
 /*Testimonial section*/
 
 #testimonials {
-    background-color: #ef8172;
+    background-color: #FF665A;
 }
 
 .testimonial-text {
@@ -143,7 +143,7 @@ p {
 /* Press section*/
 
 #press {
-    background-color: #ef8172;
+    background-color: #FFF587;
     padding-bottom: 3%;
 }
 
@@ -170,7 +170,7 @@ p {
 /* CTA section */
 
 #cta {
-    background-color: #ff4c68;
+    background-color: #90CBFB;
     color: #fff;
 }
 
